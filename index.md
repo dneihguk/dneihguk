@@ -1,6 +1,6 @@
 ## Welcome to Neihguk's space!!
 
-Hi! I am currently Acoustics & Vibration Engineer at Bombardier Transportation India. Previously Lead Engineer at Mahindra Research Valley, Chennai. My research interests include muffler acoustics,  air-borne and structure-borne noise control, vibration isolation, and the broader field of automotive and railway vibration and acoustics. 
+Hi! I am currently working as an Acoustics & Vibration Engineer at Bombardier Transportation, Hyderabad, India. Previously, I was Lead Engineer at Mahindra Research Valley, Chennai. My research interests include muffler acoustics,  air-borne and structure-borne noise control, vibration isolation, and the broader field of automotive and railway vibration and acoustics. 
 
 David Neihguk
 
