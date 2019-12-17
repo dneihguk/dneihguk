@@ -1,6 +1,8 @@
-## Mualdawn Vontawi Siamsin
+## Welcome to Neihguk's space!!
 
-Sin in Sem in Zun in
+Hi! I am currently Acoustics & Vibration Engineer at Bombardier Transportation India. Previously Lead Engineer at Mahindra Research Valley, Chennai. My research interests include muffler acoustics,  air-borne and structure-borne noise control, vibration isolation, and the broader field of automotive and railway vibration and acoustics. 
+
+David Neihguk
 
 You can use the [editor on GitHub](https://github.com/siamsin/dneihguk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
